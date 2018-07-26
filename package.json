@@ -1,17 +1,25 @@
 {
   "name": "discordbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "FBI bot",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+     "express": "^4.16.3"
   },
+"engines": {
+   "node": "10.6.0"
+},
   "devDependencies": {},
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
 
 },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/dfatrickz/robbinolsson2.git"
+  },
   "author": "",
   "license": "ISC"
 }
