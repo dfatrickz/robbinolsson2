@@ -522,5 +522,5 @@ function formatTrigger(trigger) {
   //  }); 
 
 const token = process.env.TOKEN;
-client.login('NDcwMDM3MTI4NzcyODQ1NTY4.DjQwQw.bYQBKQybkVKEKoB6-Vquu_9JzV8');   
+client.login('');   
 
